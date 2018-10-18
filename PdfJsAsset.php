@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2assets\pdfjs;
+namespace NIOLAB\pdfjs;
 
 use yii\web\AssetBundle;
 use yii\web\View;

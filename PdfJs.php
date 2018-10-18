@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2assets\pdfjs;
+namespace NIOLAB\pdfjs;
 use Yii;
 use yii\helpers\Html;
 use yii\helpers\Url;

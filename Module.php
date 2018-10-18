@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2assets\pdfjs;
+namespace NIOLAB\pdfjs;
 
 /**
  * pdfjs module definition class

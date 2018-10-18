@@ -14,7 +14,7 @@ class Module extends \yii\base\Module
     /**
      * @inheritdoc
      */
-    public $controllerNamespace = 'yii2assets\pdfjs\controllers';
+    public $controllerNamespace = 'NIOLAB\pdfjs\controllers';
 
     /**
      * @inheritdoc

@@ -11,7 +11,7 @@ use yii\web\View;
  */
 class PdfJsAsset extends AssetBundle
 {
-    public $sourcePath = '@yii2assets/pdfjs/assets';
+    public $sourcePath = '@NIOLAB/pdfjs/assets';
 
     public $js = [
         'web/compatibility.js',
@@ -29,4 +29,3 @@ class PdfJsAsset extends AssetBundle
         'web/viewer.css'
     ];
 }
- ?>
